@@ -1,0 +1,5 @@
+# markplace-financiero
+es un aplicativo y  la union entre empresas financieras: bancos, financieras ,entres personas solicitantes (prestamos)
+url = https://github.com/jheisonxxx/webempleo.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
